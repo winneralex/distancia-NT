@@ -1,2 +1,2 @@
-# distancia-NT
+# distancia-DIO
 Desafio Distância DIO-Java
